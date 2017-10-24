@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuGenerator", "SudokuGenerator\SudokuGenerator.csproj", "{864E61C4-B198-4277-BA6F-142C75BD6239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuGeneratorTests", "SudokuGeneratorTests\SudokuGeneratorTests.csproj", "{8D26CC1E-FCE2-46B3-80E8-28190A1ECD7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{864E61C4-B198-4277-BA6F-142C75BD6239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{864E61C4-B198-4277-BA6F-142C75BD6239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{864E61C4-B198-4277-BA6F-142C75BD6239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D26CC1E-FCE2-46B3-80E8-28190A1ECD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D26CC1E-FCE2-46B3-80E8-28190A1ECD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D26CC1E-FCE2-46B3-80E8-28190A1ECD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D26CC1E-FCE2-46B3-80E8-28190A1ECD7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
